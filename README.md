@@ -1,6 +1,6 @@
-# wed-dev
+# web-dev
 Used for web based projects
 
-html
-javascript
-css
+- html
+- javascript
+- css
