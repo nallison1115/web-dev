@@ -1,2 +1,6 @@
 # wed-dev
-web development
+Used for web based projects
+
+html
+javascript
+css
