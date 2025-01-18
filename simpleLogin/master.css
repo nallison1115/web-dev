@@ -6,10 +6,12 @@
 
 body {
     display: flex;
-    background-color: seagreen;
     justify-content: center;
     align-items: center;
     min-height: 100vh;
+    background-image: url("wood-panel.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .wrapper {
